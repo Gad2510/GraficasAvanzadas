@@ -1,12 +1,13 @@
 ﻿  luces.cpp
 C:\glfw\include\shader\shader.h(48,34): warning C4101: 'e': variable local sin referencia
-D:\gad25\Desktop\Rancho\luces.cpp(639,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(671,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(895,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(896,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(900,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(901,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(903,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(904,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\gad25\Desktop\Rancho\luces.cpp(911,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-  info2.vcxproj -> D:\gad25\Desktop\Rancho\x64\Debug\info2.exe
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(639,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(671,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(895,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(896,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(900,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(901,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(903,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(904,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\luces.cpp(911,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  info2.vcxproj -> D:\gad25\Documents\GitHub\GraficasAvanzadas\PrimerParcial\Farm-OPENGL\Rancho\x64\Debug\info2.exe
